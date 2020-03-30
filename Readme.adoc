@@ -1,0 +1,3 @@
+= Learning Kotlin
+
+Idea of this project is to get good understanding of Kotlin. I will first learn how to write unit tests with https://www.spekframework.org/[Spek] and then go trough https://kotlinlang.org/docs/reference/[Kotlin reference] and write tests for all interesting features.
